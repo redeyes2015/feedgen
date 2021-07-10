@@ -4,9 +4,13 @@
   "main": "index.mjs",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "node server.mjs"
+  },
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.6",
+    "fastify": "^3.19.0",
     "feed": "^4.2.2"
   }
 }
