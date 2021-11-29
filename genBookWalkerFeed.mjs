@@ -17,7 +17,7 @@ export default async function genBookWalkerFeed (url) {
 
     const $ = cheerio.load(resp.data);
 
-    const books = Array.from($('.bwbookitem a'), (rawElement) => {
+    const books = Array.from($('.bookitem a'), (rawElement) => {
         const item = $(rawElement);
         const img = item.find('img');
         img.attr('src', img.attr('data-src'));
