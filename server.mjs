@@ -10,7 +10,7 @@ fastify.get('/', async (request, reply) => {
 })
 
 fastify.get('/bookwalker_atom.xml', () => {
-  return genBookWalkerFeed('https://www.bookwalker.com.tw/category/3/28?order=sell_desc')
+  return genBookWalkerFeed('https://www.bookwalker.com.tw/search?order=sell_desc&m=3&s=28')
 });
 
 const port = process.env.PORT ? parseInt(process.env.PORT, 10) : 80;
