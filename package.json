@@ -5,7 +5,8 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "node server.mjs"
+    "start": "node server.mjs",
+    "build": "mkdir -p public; node ./index.mjs > public/bookwalker_atom.xml"
   },
   "dependencies": {
     "axios": "^0.21.1",
