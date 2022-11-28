@@ -7,7 +7,7 @@ export default async function genBookWalkerFeed (url) {
         url,
         {
             headers: {'User-agent': 'feedgen'},
-            timeout: 5000,
+            timeout: 15000,
         }
     )
 
