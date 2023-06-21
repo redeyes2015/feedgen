@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "start": "node server.mjs",
-    "build": "mkdir -p public; node ./index.mjs > public/bookwalker_atom.xml"
+    "build": "mkdir -p public; node ./index.mjs"
   },
   "dependencies": {
     "axios": "^0.21.1",
