@@ -37,6 +37,9 @@ export default async function genBookWalkerFeed (url) {
     });
 
     for (const { content, title, url } of books) {
+        if (title.includes("繁体中文")) {
+            continue;
+        }
         feed.addItem({
             title: title,
             id: url,
