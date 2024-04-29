@@ -2,22 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://greenhornfinancefootnote.blogspot.com/</id>
     <title>綠角財經筆記</title>
-    <updated>2024-04-28T18:08:34.622Z</updated>
+    <updated>2024-04-29T18:09:15.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Feed Generator</name>
     </author>
-    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2024-04-28T18:08:34.062Z&amp;max-results=20"/>
+    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2024-04-29T18:09:14.305Z&amp;max-results=20"/>
+    <entry>
+        <title type="html"><![CDATA[如何下載美國券商Form 1042S--Charles Schwab、Interactive Brokers、Firstrade、E*Trade (How to Download Form 1042S)]]></title>
+        <id>https://greenhornfinancefootnote.blogspot.com/2024/04/form-1042s-charles-schwabinteractive.html</id>
+        <link href="https://greenhornfinancefootnote.blogspot.com/2024/04/form-1042s-charles-schwabinteractive.html"/>
+        <updated>2024-04-29T18:09:15.161Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《退化性關節炎診治照護全書》讀後感—破除迷思與恐懼]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2024/04/blog-post.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2024/04/blog-post.html"/>
-        <updated>2024-04-28T18:08:34.622Z</updated>
+        <updated>2024-04-29T18:09:15.161Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[定期定額投入美國ETF績效分析---以VGK為例(Dollar-cost Averaging into Vanguard FTSE Europe ETF，2024更新)]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2024/04/etf-vgkdollar-cost-averaging-into.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2024/04/etf-vgkdollar-cost-averaging-into.html"/>
-        <updated>2024-04-28T18:08:34.622Z</updated>
+        <updated>2024-04-29T18:09:15.161Z</updated>
     </entry>
 </feed>
