@@ -2,16 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://greenhornfinancefootnote.blogspot.com/</id>
     <title>綠角財經筆記</title>
-    <updated>2024-05-26T18:09:15.663Z</updated>
+    <updated>2024-05-27T00:37:11.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Feed Generator</name>
     </author>
-    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2024-05-26T18:09:14.951Z&amp;max-results=20"/>
+    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2024-05-27T00:37:10.684Z&amp;max-results=20"/>
+    <entry>
+        <title type="html"><![CDATA[”資產配置戰略總覽”2024十月19、20日台北班開課公告]]></title>
+        <id>https://greenhornfinancefootnote.blogspot.com/2024/05/20241920.html</id>
+        <link href="https://greenhornfinancefootnote.blogspot.com/2024/05/20241920.html"/>
+        <updated>2024-05-27T00:37:11.381Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[定期定額投入美國ETF績效分析---以VPL為例(Dollar-cost Averaging into Vanguard FTSE Pacific ETF，2024更新)]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2024/05/etf-vpldollar-cost-averaging-into.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2024/05/etf-vpldollar-cost-averaging-into.html"/>
-        <updated>2024-05-26T18:09:15.663Z</updated>
+        <updated>2024-05-27T00:37:11.381Z</updated>
     </entry>
 </feed>
