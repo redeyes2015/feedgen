@@ -2,22 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://greenhornfinancefootnote.blogspot.com/</id>
     <title>綠角財經筆記</title>
-    <updated>2025-02-19T18:12:43.331Z</updated>
+    <updated>2025-02-20T00:46:02.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Feed Generator</name>
     </author>
-    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2025-02-19T18:12:42.795Z&amp;max-results=20"/>
+    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2025-02-20T00:46:01.468Z&amp;max-results=20"/>
+    <entry>
+        <title type="html"><![CDATA[以美國ETF進行資產配置的實際成績(Asset Allocation with ETFs，2025更新)]]></title>
+        <id>https://greenhornfinancefootnote.blogspot.com/2025/02/etfasset-allocation-with-etfs2025.html</id>
+        <link href="https://greenhornfinancefootnote.blogspot.com/2025/02/etfasset-allocation-with-etfs2025.html"/>
+        <updated>2025-02-20T00:46:02.029Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[聯博全球非投資等級債券基金(聯博全球高收益債券基金)實際進行退休提領的成果，2025更新(High Yields Do Not Bring Sustainable Retirement Income)]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2025/02/2025high-yields-do-not-bring.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2025/02/2025high-yields-do-not-bring.html"/>
-        <updated>2025-02-19T18:12:43.331Z</updated>
+        <updated>2025-02-20T00:46:02.029Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[元大台灣卓越50ETF分析介紹(0050，2025年版)]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2025/02/50etf00502025.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2025/02/50etf00502025.html"/>
-        <updated>2025-02-19T18:12:43.331Z</updated>
+        <updated>2025-02-20T00:46:02.029Z</updated>
     </entry>
 </feed>
