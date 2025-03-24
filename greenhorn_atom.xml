@@ -2,16 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://greenhornfinancefootnote.blogspot.com/</id>
     <title>綠角財經筆記</title>
-    <updated>2025-03-23T18:12:01.346Z</updated>
+    <updated>2025-03-24T00:51:36.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Feed Generator</name>
     </author>
-    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2025-03-23T18:12:00.829Z&amp;max-results=20"/>
+    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2025-03-24T00:51:35.939Z&amp;max-results=20"/>
+    <entry>
+        <title type="html"><![CDATA[熊市的痛苦(Anatomy of Bear Markets)]]></title>
+        <id>https://greenhornfinancefootnote.blogspot.com/2025/03/anatomy-of-bear-markets.html</id>
+        <link href="https://greenhornfinancefootnote.blogspot.com/2025/03/anatomy-of-bear-markets.html"/>
+        <updated>2025-03-24T00:51:36.573Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[元大台灣高股息ETF分析介紹(0056，2025年版)]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2025/03/etf00562025.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2025/03/etf00562025.html"/>
-        <updated>2025-03-23T18:12:01.345Z</updated>
+        <updated>2025-03-24T00:51:36.573Z</updated>
     </entry>
 </feed>
