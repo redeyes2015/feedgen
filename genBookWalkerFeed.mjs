@@ -6,7 +6,7 @@ export default async function genBookWalkerFeed (url) {
     const resp = await axios.get(
         url,
         {
-            headers: {'User-agent': 'feedgen'},
+            headers: {'User-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:139.0) Gecko/20100101 redeyes2015/feedgen'},
             timeout: 15000,
         }
     )
