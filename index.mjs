@@ -20,7 +20,7 @@ const greenhornJob = async () => {
 
 await Promise.all([
     bookWalkerJob(),
-    // greenhornJob(),
+    greenhornJob(),
 ]);
 
 
