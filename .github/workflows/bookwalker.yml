@@ -1,4 +1,4 @@
-name: Update Feed
+name: Update Bookwalker Feed
 
 on:
   schedule:
@@ -15,7 +15,7 @@ jobs:
             - name: Build
               run: |
                   yarn
-                  yarn run build
+                  yarn run build-bookwalker
             - name: Deploy
               if: success()
               uses: crazy-max/ghaction-github-pages@v3

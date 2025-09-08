@@ -6,7 +6,9 @@
   "private": true,
   "scripts": {
     "start": "node server.mjs",
-    "build": "mkdir -p public; node ./index.mjs"
+    "build": "mkdir -p public; node ./index.mjs",
+    "build-greenhorn": "mkdir -p public; node ./greenhorn.mjs",
+    "build-bookwalker": "mkdir -p public; node ./bookwalker.mjs"
   },
   "dependencies": {
     "axios": "^0.21.1",

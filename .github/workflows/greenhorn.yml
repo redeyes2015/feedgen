@@ -1,0 +1,28 @@
+name: Update Greenhorn Feed
+
+on:
+  schedule:
+  - cron: "0 0 */2 * *"
+  workflow_dispatch:
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v3
+
+            - name: Build
+              run: |
+                  yarn
+                  yarn run build-greenhorn
+            - name: Deploy
+              if: success()
+              uses: crazy-max/ghaction-github-pages@v3
+              with:
+                target_branch: gh-pages
+                build_dir: public
+                allow_empty_commit: false
+                keep_history: true
+              env:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
