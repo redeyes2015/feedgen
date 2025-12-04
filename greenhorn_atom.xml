@@ -2,40 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://greenhornfinancefootnote.blogspot.com/</id>
     <title>綠角財經筆記</title>
-    <updated>2025-12-01T01:19:56.527Z</updated>
+    <updated>2025-12-04T01:09:04.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Feed Generator</name>
     </author>
-    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2025-12-01T01:19:56.024Z&amp;max-results=20"/>
+    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2025-12-04T01:09:04.377Z&amp;max-results=20"/>
+    <entry>
+        <title type="html"><![CDATA[市場高點買進，到底對報酬會有多大的傷害?(Is It OK to Invest at All-Time High?)]]></title>
+        <id>https://greenhornfinancefootnote.blogspot.com/2025/12/is-it-ok-to-invest-at-all-time-high.html</id>
+        <link href="https://greenhornfinancefootnote.blogspot.com/2025/12/is-it-ok-to-invest-at-all-time-high.html"/>
+        <updated>2025-12-04T01:09:04.981Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投資時，你是追求者還是滿足者(Maximizer vs. Satisficer)]]></title>
+        <id>https://greenhornfinancefootnote.blogspot.com/2025/12/maximizer-vs-satisficer.html</id>
+        <link href="https://greenhornfinancefootnote.blogspot.com/2025/12/maximizer-vs-satisficer.html"/>
+        <updated>2025-12-04T01:09:04.981Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Not to Invest讀後感1—你該摒除的投資資訊]]></title>
+        <id>https://greenhornfinancefootnote.blogspot.com/2025/12/how-not-to-invest1.html</id>
+        <link href="https://greenhornfinancefootnote.blogspot.com/2025/12/how-not-to-invest1.html"/>
+        <updated>2025-12-04T01:09:04.981Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025十一月回顧]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2025/12/2025.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2025/12/2025.html"/>
-        <updated>2025-12-01T01:19:56.527Z</updated>
+        <updated>2025-12-04T01:09:04.981Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[“從資產到現金流--退休資產管理”2025七月台北班學員課後回饋]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2025/11/2025_0683562480.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2025/11/2025_0683562480.html"/>
-        <updated>2025-12-01T01:19:56.527Z</updated>
+        <updated>2025-12-04T01:09:04.981Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vanguard FTSE Developed Markets ETF分析介紹(VEA，2025年版)]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2025/11/vanguard-ftse-developed-markets.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2025/11/vanguard-ftse-developed-markets.html"/>
-        <updated>2025-12-01T01:19:56.527Z</updated>
+        <updated>2025-12-04T01:09:04.981Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[國泰台灣低波動股利精選30 ETF分析介紹(00701，2025年版)]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2025/11/30-etf007012025.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2025/11/30-etf007012025.html"/>
-        <updated>2025-12-01T01:19:56.527Z</updated>
+        <updated>2025-12-04T01:09:04.981Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[元大台灣中型100ETF分析介紹(0051，2025年版)]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2025/11/100etf00512025.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2025/11/100etf00512025.html"/>
-        <updated>2025-12-01T01:19:56.527Z</updated>
+        <updated>2025-12-04T01:09:04.981Z</updated>
     </entry>
 </feed>
