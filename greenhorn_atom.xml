@@ -2,16 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://greenhornfinancefootnote.blogspot.com/</id>
     <title>綠角財經筆記</title>
-    <updated>2026-04-16T02:03:04.138Z</updated>
+    <updated>2026-04-19T02:03:12.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Feed Generator</name>
     </author>
-    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2026-04-16T02:03:03.727Z&amp;max-results=20"/>
+    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2026-04-19T02:03:12.099Z&amp;max-results=20"/>
+    <entry>
+        <title type="html"><![CDATA[合理支出，該看收入還是資產?(Spend Based on Income and Assets)]]></title>
+        <id>https://greenhornfinancefootnote.blogspot.com/2026/04/spend-based-on-income-and-assets.html</id>
+        <link href="https://greenhornfinancefootnote.blogspot.com/2026/04/spend-based-on-income-and-assets.html"/>
+        <updated>2026-04-19T02:03:12.613Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SPIVA Asia Ex-Japan Year-End 2025 Scorecard讀後感---台灣是主動型基金的天堂嗎? ]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2026/04/spiva-asia-ex-japan-year-end-2025.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2026/04/spiva-asia-ex-japan-year-end-2025.html"/>
-        <updated>2026-04-16T02:03:04.138Z</updated>
+        <updated>2026-04-19T02:03:12.613Z</updated>
     </entry>
 </feed>
