@@ -2,16 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://greenhornfinancefootnote.blogspot.com/</id>
     <title>綠角財經筆記</title>
-    <updated>2026-05-07T02:13:02.355Z</updated>
+    <updated>2026-05-10T02:24:51.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Feed Generator</name>
     </author>
-    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2026-05-07T02:13:01.693Z&amp;max-results=20"/>
+    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2026-05-10T02:24:51.309Z&amp;max-results=20"/>
+    <entry>
+        <title type="html"><![CDATA[“ETF關鍵報告”2026三月台北班學員課後回饋]]></title>
+        <id>https://greenhornfinancefootnote.blogspot.com/2026/05/etf2026.html</id>
+        <link href="https://greenhornfinancefootnote.blogspot.com/2026/05/etf2026.html"/>
+        <updated>2026-05-10T02:24:51.783Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[定期定額投入美國ETF績效分析---以VT為例(Dollar-Cost Averaging into Vanguard Total World Stock Market ETF，2026更新)]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2026/05/etf-vtdollar-cost-averaging-into.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2026/05/etf-vtdollar-cost-averaging-into.html"/>
-        <updated>2026-05-07T02:13:02.355Z</updated>
+        <updated>2026-05-10T02:24:51.783Z</updated>
     </entry>
 </feed>
