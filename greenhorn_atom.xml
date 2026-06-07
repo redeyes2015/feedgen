@@ -2,16 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://greenhornfinancefootnote.blogspot.com/</id>
     <title>綠角財經筆記</title>
-    <updated>2026-06-04T02:58:42.449Z</updated>
+    <updated>2026-06-07T02:52:57.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Feed Generator</name>
     </author>
-    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2026-06-04T02:58:41.989Z&amp;max-results=20"/>
+    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2026-06-07T02:52:57.432Z&amp;max-results=20"/>
+    <entry>
+        <title type="html"><![CDATA[《資產配置戰略總覽》2026五月台北班學員課後回饋]]></title>
+        <id>https://greenhornfinancefootnote.blogspot.com/2026/06/2026.html</id>
+        <link href="https://greenhornfinancefootnote.blogspot.com/2026/06/2026.html"/>
+        <updated>2026-06-07T02:52:57.859Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[元大台灣50單日正向2倍ETF(00631L)持有者分析(Analysis of Shareholders of Yuanta Daily Taiwan 50 Bull 2X ETF)]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2026/06/502etf00631lanalysis-of-shareholders-of.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2026/06/502etf00631lanalysis-of-shareholders-of.html"/>
-        <updated>2026-06-04T02:58:42.448Z</updated>
+        <updated>2026-06-07T02:52:57.859Z</updated>
     </entry>
 </feed>
