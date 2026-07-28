@@ -2,34 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://greenhornfinancefootnote.blogspot.com/</id>
     <title>綠角財經筆記</title>
-    <updated>2026-07-25T02:02:35.132Z</updated>
+    <updated>2026-07-28T01:55:20.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Feed Generator</name>
     </author>
-    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2026-07-25T02:02:34.658Z&amp;max-results=20"/>
+    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2026-07-28T01:55:20.286Z&amp;max-results=20"/>
+    <entry>
+        <title type="html"><![CDATA[Vanguard Total International Stock ETF分析介紹(VXUS，2026年版)]]></title>
+        <id>https://greenhornfinancefootnote.blogspot.com/2026/07/vanguard-total-international-stock.html</id>
+        <link href="https://greenhornfinancefootnote.blogspot.com/2026/07/vanguard-total-international-stock.html"/>
+        <updated>2026-07-28T01:55:20.668Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《花錢的藝術》 (The Art of Spending Money)綠角推薦序—瞭解錢的作用，賺錢才有意義]]></title>
+        <id>https://greenhornfinancefootnote.blogspot.com/2026/07/art-of-spending-money.html</id>
+        <link href="https://greenhornfinancefootnote.blogspot.com/2026/07/art-of-spending-money.html"/>
+        <updated>2026-07-28T01:55:20.668Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《ETF關鍵報告》2026五月台中班學員課後回饋]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2026/07/etf2026_0844472538.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2026/07/etf2026_0844472538.html"/>
-        <updated>2026-07-25T02:02:35.132Z</updated>
+        <updated>2026-07-28T01:55:20.668Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[富邦台灣摩根ETF分析介紹(0057，2026年版)]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2026/07/etf00572026.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2026/07/etf00572026.html"/>
-        <updated>2026-07-25T02:02:35.132Z</updated>
+        <updated>2026-07-28T01:55:20.668Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vanguard Total World Stock ETF分析介紹(VT，2026年版)]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2026/07/vanguard-total-world-stock-etfvt2026.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2026/07/vanguard-total-world-stock-etfvt2026.html"/>
-        <updated>2026-07-25T02:02:35.132Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[元大台灣加權股價指數基金指數追蹤效益分析(Tracking Difference of Yuanta Taiwan Weighted Stock Index Fund，2026更新)]]></title>
-        <id>https://greenhornfinancefootnote.blogspot.com/2026/07/tracking-difference-of-yuanta-taiwan.html</id>
-        <link href="https://greenhornfinancefootnote.blogspot.com/2026/07/tracking-difference-of-yuanta-taiwan.html"/>
-        <updated>2026-07-25T02:02:35.132Z</updated>
+        <updated>2026-07-28T01:55:20.668Z</updated>
     </entry>
 </feed>
