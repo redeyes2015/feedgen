@@ -2,46 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://greenhornfinancefootnote.blogspot.com/</id>
     <title>綠角財經筆記</title>
-    <updated>2026-11-07T00:21:17.669Z</updated>
+    <updated>2026-11-12T02:00:01.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Feed Generator</name>
     </author>
-    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2026-11-07T00:21:17.018Z&amp;max-results=20"/>
+    <link rel="alternate" href="https://greenhornfinancefootnote.blogspot.com/search?updated-max=2026-11-12T02:00:00.860Z&amp;max-results=20"/>
+    <entry>
+        <title type="html"><![CDATA[楊斯棓醫師”一筆善款百年用、台灣遍地是英雄”聽講感想]]></title>
+        <id>https://greenhornfinancefootnote.blogspot.com/2026/11/blog-post.html</id>
+        <link href="https://greenhornfinancefootnote.blogspot.com/2026/11/blog-post.html"/>
+        <updated>2026-11-12T02:00:01.384Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Risk and Reward”讀後感1—投資時，不動需要很努力]]></title>
+        <id>https://greenhornfinancefootnote.blogspot.com/2026/11/risk-and-rewards1.html</id>
+        <link href="https://greenhornfinancefootnote.blogspot.com/2026/11/risk-and-rewards1.html"/>
+        <updated>2026-11-12T02:00:01.385Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLEC 433投資組合對退休的危害，以近一個月股市修正為例(CLEC 433 Portfolio Can be Detrimental to Your Retirement)]]></title>
+        <id>https://greenhornfinancefootnote.blogspot.com/2026/11/clec-433clec-433-portfolio-can-be.html</id>
+        <link href="https://greenhornfinancefootnote.blogspot.com/2026/11/clec-433clec-433-portfolio-can-be.html"/>
+        <updated>2026-11-12T02:00:01.385Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近一個月股市下跌，台股、台股正二、全球投資、股債搭配的成果比較(Comparison of Different Investment Strategies in Recent Stock Market Correction)]]></title>
+        <id>https://greenhornfinancefootnote.blogspot.com/2026/11/comparison-of-different-investment.html</id>
+        <link href="https://greenhornfinancefootnote.blogspot.com/2026/11/comparison-of-different-investment.html"/>
+        <updated>2026-11-12T02:00:01.385Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[連結基金與原始標的的績效差距(Tracking Differences of Feeder Funds)]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2026/11/tracking-differences-of-feeder-funds.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2026/11/tracking-differences-of-feeder-funds.html"/>
-        <updated>2026-11-07T00:21:17.669Z</updated>
+        <updated>2026-11-12T02:00:01.385Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[國泰台灣低波動股利精選30 ETF分析介紹(00701，2026年版)]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2026/11/30-etf007012026.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2026/11/30-etf007012026.html"/>
-        <updated>2026-11-07T00:21:17.669Z</updated>
+        <updated>2026-11-12T02:00:01.385Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[退休投資的致命錯誤假設(Fatal Assumptions about Retirement Planning)]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2026/11/fatal-assumptions-about-retirement.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2026/11/fatal-assumptions-about-retirement.html"/>
-        <updated>2026-11-07T00:21:17.669Z</updated>
+        <updated>2026-11-12T02:00:01.385Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vanguard Intermediate-Term Treasury ETF分析介紹(VGIT，2026年版)]]></title>
         <id>https://greenhornfinancefootnote.blogspot.com/2026/11/vanguard-intermediate-term-treasury.html</id>
         <link href="https://greenhornfinancefootnote.blogspot.com/2026/11/vanguard-intermediate-term-treasury.html"/>
-        <updated>2026-11-07T00:21:17.669Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Build The Life You Want”《打造你要的人生》讀後感1—無法幸福的根本原因]]></title>
-        <id>https://greenhornfinancefootnote.blogspot.com/2026/11/build-life-you-want1.html</id>
-        <link href="https://greenhornfinancefootnote.blogspot.com/2026/11/build-life-you-want1.html"/>
-        <updated>2026-11-07T00:21:17.669Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanguard High Dividend Yield ETF分析介紹(VYM，2026年版)]]></title>
-        <id>https://greenhornfinancefootnote.blogspot.com/2026/10/vanguard-high-dividend-yield-etfvym2026.html</id>
-        <link href="https://greenhornfinancefootnote.blogspot.com/2026/10/vanguard-high-dividend-yield-etfvym2026.html"/>
-        <updated>2026-11-07T00:21:17.669Z</updated>
+        <updated>2026-11-12T02:00:01.385Z</updated>
     </entry>
 </feed>
